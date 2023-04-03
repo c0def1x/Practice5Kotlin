@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice 5</string>
+    <string name="mdk_name">МДК 01.02</string>
+    <string name="firstButtonText">Фамилия разработчика</string>
+    <string name="secondButtonText">Название учебного заведения</string>
+    <string name="developerSurname">Горбатов</string>
+    <string name="educationalInstitutionTitle">ГАПОУ СО ЕКТС</string>
+</resources>
